@@ -7,4 +7,4 @@ NeuroStartUp - динамически развивающийся стартап,
 1. Высокая скорость поиска
 1. Низкая цена
 
-[** Посмотреть информацию можно со сылке ** ](https://github.com/Swetlyak2006/NeuroStartUp)
+[Посмотреть информацию можно со сылке](https://github.com/Swetlyak2006/NeuroStartUp)
